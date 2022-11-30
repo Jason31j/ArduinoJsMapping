@@ -1,0 +1,35 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overscroll-behavior-y: contain;
+}
+
+.contenedorGlobal {
+
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.contenedorGlobal-barra {
+
+
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+
+
+h1 {
+    font-family: 'McLaren', cursive;
+
+    color: #D3D4D7;
+}
+
+b {
+    color: #C46BFF;
+    font-size: 40px;
+}
+
